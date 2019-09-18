@@ -3,18 +3,24 @@
     "id": 1,
     "name": "My First Website",
     "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
-    "description": "This was my first project. The guy lost, but won the popular vote!"
+    "description": "This was my first project."
   },
   {
     "id": 2,
-    "name": "UI Design",
+    "name": "ATM Challenge",
     "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-    "description": "Designing user interfaces is fun. I want to learn more about that..."
+    "description": "While practicing pair programming we created an ATM written in Ruby and using Test Driven Development. "
   },
   {
     "id": 3,
-    "name": "Mobile UX",
+    "name": "BMI calculator",
     "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-    "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
+    "description": "By working with Test Driven Development I wrote a JavaScript programm that calculates a individuals BMI index."
+  },
+  {
+    "id": 4,
+    "name": "My Addressbook",
+    "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+    "description": "My Teampartner and I built an addressbook written in Java"
   }
 ]
